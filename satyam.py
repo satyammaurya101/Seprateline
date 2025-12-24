@@ -1,4 +1,4 @@
-from flash import
+from flash export
 
 hello
 hi
